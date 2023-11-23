@@ -1,0 +1,17 @@
+{
+  "templates": [
+    {
+      "name": "controller",
+      "files": [
+        {
+          "name": "__param1__.controller.ts",
+          "templatePath": ".gotempl/controller.ts",
+          "parameters": [
+            { "name": "__param1__", "value": 0 },
+            { "name": "param2", "value": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}
